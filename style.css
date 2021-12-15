@@ -1,0 +1,45 @@
+body
+		{
+			background-color: #28FFBF;
+		}
+		hr
+		{
+			border-color: #E2703A;
+			border-style: none;
+			border-style: dashed solid none none;
+			border-width: 3px; 
+			width: 100%;
+		}
+		/*h1
+		{
+			color: #9C3D54;
+		}
+		h2
+		{
+			color: #9C3D54;
+		}*/
+		p
+		{
+			font-size:120%;
+		}
+		.bb
+		{
+			color: #150485;
+		}
+		#aa
+		{
+			color: #150485;
+		}
+		.add
+		{
+			color: #150485;
+		}
+		.state
+		{
+			color: #150485;
+		}
+		.india
+		{
+			color: #150485;
+		}
+		

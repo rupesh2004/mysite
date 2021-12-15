@@ -1,0 +1,33 @@
+body
+		{
+			background-color: #FFE3E3;
+		}	
+		hr
+		{
+			border-style:none;
+			border-style:dashed double none;
+			border-color: #B05B3B;
+			border-width: 5px; 
+			width: 100%;
+		}
+	.ceo
+	{
+		font-size: 200%;
+	}
+	#pubg : hover{
+
+		background-color: red;
+	}
+	.ce: hover
+	{
+		font-size: 150%;
+		background-color: yellow;
+	}
+	img : hover
+	{
+		background-color: red;
+	}
+	h1: hover
+	{
+		color: red;
+	}
